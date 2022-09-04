@@ -23,6 +23,7 @@ Hi there, I'm Hugo 👋 | ![age](https://img.shields.io/badge/age-29-blue?style=
  # Here are some ideas to get you started:
  ## 🔭 I’m currently working on 
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=llZektorll&repo=OB_Template&theme=gotham)](https://github.com/llZektorll/OB_Template)
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=llZektorll&repo=Office-365-PowerShell-Easy-Mode&theme=gotham)](https://github.com/llZektorll/Office-365-PowerShell-Easy-Mode)
 
 <!--
 **llZektorll/llZektorll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
