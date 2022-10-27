@@ -6,7 +6,7 @@ Hi there, I'm Hugo 👋 | ![age](https://img.shields.io/badge/age-29-blue?style=
  
 ### About Me
 - Self-taught hobby coder
-- Working as a Microsoft Office 365 Administrator 
+- Working as a Microsoft Office 365 Administrator
  
  ---
  
