@@ -14,7 +14,7 @@ Hi there, I'm Hugo 👋 | ![age](https://img.shields.io/badge/age-29-blue?style=
  -------------------------|------ 
  Languages          | [![powershell](https://img.shields.io/badge/-PowerShell-007ACC?style=for-the-badge&logo=powershell&logoColor=white)](#) 
  IDEs | [![VS-Code](https://img.shields.io/badge/-VS--code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#) [![PowerShell](https://img.shields.io/badge/-PowerShell--ISE-007ACC?style=for-the-badge&logo=powershell&logoColor=white)](#) [![notepadplusplus](https://img.shields.io/badge/-Notepad++-007ACC?style=for-the-badge&logo=notepadplusplus&logoColor=white)](#) 
- Service | [![MicrosoftExchange](https://img.shields.io/badge/-Exchange-007ACC?style=for-the-badge&logo=MicrosoftExchange&logoColor=white)](#) [![MicrosoftAzure](https://img.shields.io/badge/-Azure%20AD-007ACC?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)](#) [![MicrosoftOffice](https://img.shields.io/badge/-Office%20365-007ACC?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)](#) 
+ Service | [![MicrosoftExchange](https://img.shields.io/badge/-Exchange-007ACC?style=for-the-badge&logo=MicrosoftExchange&logoColor=white)](#) [![MicrosoftAzure](https://img.shields.io/badge/-Azure%20AD-007ACC?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)](#) [![MicrosoftOffice](https://img.shields.io/badge/-Office%20365-007ACC?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)](#) %%
   
  ---- 
    
@@ -23,7 +23,6 @@ Hi there, I'm Hugo 👋 | ![age](https://img.shields.io/badge/age-29-blue?style=
  # Here are some ideas to get you started:
  ## 🔭 I’m currently working on 
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=llZektorll&repo=OB_Template&theme=dark)](https://github.com/llZektorll/OB_Template)
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=llZektorll&repo=Microsoft-PowerShell-Fastlane&theme=dark)](https://github.com/llZektorll/Microsoft-PowerShell-Fastlane)
 
 <!--
 **llZektorll/llZektorll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
