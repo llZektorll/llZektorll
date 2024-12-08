@@ -1,4 +1,4 @@
-Hi there, I'm Hugo 👋 | ![age](https://img.shields.io/badge/age-30-blue?style=for-the-badge)![living](https://img.shields.io/badge/living-Lisbon-blue?style=for-the-badge) 
+Hi there, I'm Hugo 👋 | ![age](https://img.shields.io/badge/age-31-blue?style=for-the-badge)![living](https://img.shields.io/badge/living-Lisbon-blue?style=for-the-badge) 
  ---|---
 <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llzektorll&theme=gotham"> | <img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=llzektorll&show_icons=true&theme=gotham">
 
