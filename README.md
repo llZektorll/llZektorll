@@ -76,15 +76,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-222222?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-## <picture><img src="https://github.com/user-attachments/assets/a9167c77-adf4-4e84-bc74-f935dbaf2274" width = 50px></picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=llzektorll&theme=tokyonight_duo" alt="llzektorll" /></p>
-
-</details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
