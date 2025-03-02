@@ -8,7 +8,7 @@
 
 <br>![age](https://img.shields.io/badge/Age-31-blue?style=plastic) ![living](https://img.shields.io/badge/Location-Lisbon-blue?style=plastic)<br>
 
-- :technologist: I'm a self-taught programing.
+- :technologist: I'm a self-taught programmer.
 - :computer: Started as a IT support and currently managing a Microsoft 365 Tenant
 - :nerd_face: Always learning new things.
 <br>
