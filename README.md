@@ -70,8 +70,6 @@
 <p align="center">
 &emsp; 
      <a href="#"><img src="https://img.shields.io/badge/Linux-222222?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-222222?style=plastic&logo=ubuntu&logoColor=white"></a>
  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-222222?style=plastic&logo=windows&logoColor=white"></a>
 </p>
